@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpineMeter</string>
+    <string name="linked_bluetooth_devices">Linked Bluetooth devices:</string>
+</resources>
